@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+Usa Travel 🗺️
+License
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Benvenuto in Usa Travel! Questo progetto ti permette di scoprire e salvare i tuoi parchi preferiti degli Stati Uniti e cercare tutti i parchi disponibili. Puoi esplorare, salvare e condividere le tue esperienze con gli altri viaggiatori!
 
-## Available Scripts
+Caratteristiche
+Esplora i parchi degli Stati Uniti: Accedi a un vasto database di parchi degli Stati Uniti e scopri i dettagli di ognuno, come la posizione, le attrazioni principali e altro ancora.
+Salva i tuoi parchi preferiti: Aggiungi i parchi che ti interessano alla tua lista dei preferiti per un accesso rapido in futuro.
+Cerca i parchi: Utilizza la funzione di ricerca per trovare i parchi che soddisfano specifici criteri, come il nome, la posizione o le attività offerte.
+Condividi le tue esperienze: Hai visitato un parco? Condividi le tue esperienze, consigli e foto con gli altri utenti.
+Installazione
+Clona questo repository sul tuo computer:
+bash
+Copy code
+git clone https://github.com/tuoutente/usatravel.git
+Entra nella directory del progetto:
+bash
+Copy code
+cd usatravel
+Installa le dipendenze necessarie:
+Copy code
+npm install
+Utilizzo
+Avvia l'applicazione:
+sql
+Copy code
+npm start
+Apri il tuo browser e vai all'indirizzo http://localhost:3000.
+Inizia ad esplorare i parchi degli Stati Uniti, salvare i tuoi preferiti e cercare nuovi parchi.
+Contributi
+Se desideri contribuire a Usa Travel, segui questi passaggi:
 
-In the project directory, you can run:
+Forka questo repository.
+Crea un branch per le tue modifiche:
+bash
+Copy code
+git checkout -b feature/nuova-funzionalita
+Commit le tue modifiche:
+sql
+Copy code
+git commit -am 'Aggiungi nuova funzionalità'
+Pusha il tuo branch:
+bash
+Copy code
+git push origin feature/nuova-funzionalita
+Apri una pull request nella repository originale.
+Licenza
+Questo progetto è sotto licenza MIT. Per ulteriori informazioni, consulta il file LICENSE.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contatti
+Per qualsiasi domanda o suggerimento, non esitare a contattarmi all'indirizzo email davidscattone10@gmail.com
