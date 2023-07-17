@@ -11,6 +11,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Hero />} />
           <Route path="/Show.jsx" element={<Show />} />
+          
           {/* ...altri percorsi... */}
         </Routes>
       </div>
