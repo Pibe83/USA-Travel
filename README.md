@@ -44,8 +44,8 @@ bash
 Copy code
 git push origin feature/nuova-funzionalita
 Apri una pull request nella repository originale.
-Licenza
-Questo progetto è sotto licenza MIT. Per ulteriori informazioni, consulta il file LICENSE.
+
+Link per visitare l'app https://usa-travel-app.vercel.app/#
 
 Contatti
 Per qualsiasi domanda o suggerimento, non esitare a contattarmi all'indirizzo email davidscattone10@gmail.com
