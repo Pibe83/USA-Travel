@@ -79,11 +79,7 @@ const Show = () => {
   return (
     <div>
       <div className="sfondo">
-        <div className="absolute top-0 left-0 mt-0 ml-4">
-          <Link to="/shows">
-            <img className="img-logo" src={logo} alt="" />
-          </Link>
-        </div>
+        
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="py-16 sm:py-24 lg:py-32">
